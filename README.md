@@ -18,17 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```
+   Developed by: EZHIL NEVEDHA.K
+   REGISTER NUMBER:212223230055
+   Department: AI&DS
     a=input()
     b=input()
     c=a
     a=b
     b=c
     print("Swapped values are:",a,b)
-
+```
 
 ## OUTPUT
-![Alt text](<Screenshot 2024-03-09 091818.png>)
+![image](https://github.com/ezhilnevedha/Swapping-two-values/assets/140057992/e6e3d338-6342-414c-be0a-2f094ae4795c)
+
 
 
 
